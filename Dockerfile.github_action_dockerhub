@@ -1,1 +1,1 @@
-FROM pragent/pr-agent:github_action
+FROM pragent/pr-agent:0.36.1-github_action
